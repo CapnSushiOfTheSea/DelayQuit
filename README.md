@@ -3,6 +3,7 @@ A mod for Gorilla Tag that quits the game in about 10 seconds.
 
 ## Credits
 dev.#9998 for help making this :3
+
 WowItsKaylie#8102 for the idea
 
 ## Legal
